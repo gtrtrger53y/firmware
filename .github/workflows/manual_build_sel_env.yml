@@ -18,6 +18,7 @@ on:
           - "m5stack-cplus2"
           - "m5stack-cplus1_1"
           - "LAUNCHER_m5stack-cplus1_1"
+          - "m5stack-sticks3"
           - "m5stack-core2"
           - "m5stack-core16mb"
           - "m5stack-core4mb"
